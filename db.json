@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "9fe8",
+      "title": "123456",
+      "author": "Vignesh Babu Rajendran"
+    },
+    {
+      "id": "799d",
+      "title": "ITIS6177",
+      "author": "Vignesh"
+    },
+    {
+      "id": "c705",
+      "title": "MY ASSIGNMENT",
+      "author": "Rajendran"
+    },
+    {
+      "id": "1980",
+      "title": "Assignment06",
+      "author": "Vignesh Babu"
+    },
+    {
+      "id": "2c2a",
+      "title": "ITIS6177 Assignment06",
+      "author": "VBR"
+    },
+    {
+      "id": "aee8",
+      "title": "Week03 Assignment",
+      "author": "Vignesh Rajendran"
+    },
+    {
+      "id": "fb96",
+      "title": "Frontend mockup",
+      "author": "Vignesh"
+    },
+    {
+      "id": "169d",
+      "title": "My Frontend",
+      "author": "Rajendran"
+    },
+    {
+      "id": "d9e5",
+      "title": "Vignesh Assignment",
+      "author": "Rajendran"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

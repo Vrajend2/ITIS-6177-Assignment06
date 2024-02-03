@@ -1,0 +1,11 @@
+{
+  "name": "itis-6177-assignment06",
+  "version": "1.0.0",
+  "description": "ITIS-6177 Week 03 Assignment - Vignesh Babu Rajendran",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "Vignesh Babu Rajendran",
+  "license": "ISC"
+}
